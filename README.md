@@ -1,6 +1,5 @@
-# Shehroz-Blog```bash
-npm run dev
-# or
-yarn dev
+# Shehroz-Blog
+
 ```
-malumotlar haqida
+Loyihani ishga tushirish uchun
+```
